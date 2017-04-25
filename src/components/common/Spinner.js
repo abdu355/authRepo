@@ -14,6 +14,7 @@ return (
 const styles = {
   spinnerStyle: {
       flex: 1,
+      marginTop: 10,
       justifyContent: 'center',
       alignItems: 'center'
   }

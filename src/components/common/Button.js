@@ -21,7 +21,8 @@ const styles = {
     borderWidth: 0.5,
     borderColor: '#007aff',
     marginLeft: 5,
-    marginRight: 5
+    marginRight: 5,
+    marginTop: 5
   },
   textStyle: {
     alignSelf: 'center',
